@@ -29,7 +29,6 @@ python3 knockpy.py domain.com
 * [Plugin](#plugin)
     * [Write your own plugin](#write-your-own-plugin)
     * [Plugin test](#plugin-test---plugin-test)
-* [License](#license)
 
 ---
 
@@ -448,6 +447,3 @@ In this example, the output shows errors ```'error': True``` in three plugins be
 
 ```
 ---
-
-# License
-Knockpy is currently under development by [@guelfoweb](https://twitter.com/guelfoweb) and it's released under the GPL 3 license.
