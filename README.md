@@ -8,7 +8,7 @@ This project is developed for stock market news prediction using sentiment analy
 
 ## My Role in Project: 
 
--   I was coding and developing a presentation maker, and I was one of the speakers for the review presentation meeting.
+-   I was coding and making a presentation for review, and I was one of the speakers for the review presentation meeting.
 
 ## Technology: 
 
@@ -17,10 +17,6 @@ This project is developed for stock market news prediction using sentiment analy
 ## Team Project: 
 
 -   4 members 
-
-## Role: 
-
--   Coding and Presentation 
 
 ## Link and Results: 
 
